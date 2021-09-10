@@ -3577,6 +3577,11 @@ pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
+pokemon-font@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/pokemon-font/-/pokemon-font-1.8.1.tgz#55cad862590fce41b5dbb4f080693f9444bea097"
+  integrity sha512-INOiw38rYaIig9ehTow6RZ2FbXNtm+5B/BpNUIwkctkGfZxjx86QqPPGwAmvrCoze9lohkML0hP7u6qu1gi1rQ==
+
 portfinder@^1.0.28:
   version "1.0.28"
   resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.28.tgz#67c4622852bd5374dd1dd900f779f53462fac778"

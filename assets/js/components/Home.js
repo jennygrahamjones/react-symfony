@@ -23,7 +23,6 @@ const Home = () => {
     let random = Math.floor(Math.random() * 151) + 1;
 
     axios.get(`http://localhost:8000/api/pokemon/${random}`).then((p) => {
-      console.log(p.data);
       setPokemon(p.data);
     });
   };
